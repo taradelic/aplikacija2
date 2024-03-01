@@ -1,0 +1,97 @@
+.proizvod1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+
+  .tekst{
+    text-align: center;
+    color: rgb(83, 230, 93);
+    font-size: 22px;
+  }
+  .sniz{
+    text-decoration: line-through;
+    color: red;
+  }
+  
+  .kosarica {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(0, 177, 157);
+    background-color: #2e0099;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .proizvod2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .tekst{
+    text-align: center;
+    color: rgb(83, 230, 93);
+    font-size: 22px;
+  }
+  .sniz{
+    text-decoration: line-through;
+    color: red;
+  }
+  
+  .kosarica {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(0, 177, 157);
+    background-color: #2e0099;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .proizvod3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .tekst{
+    text-align: center;
+    color: rgb(83, 230, 93);
+    font-size: 22px;
+  }
+  .sniz{
+    text-decoration: line-through;
+    color: red;
+  }
+
+
+  
+  .kosarica {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(0, 177, 157);
+    background-color: #2e0099;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+
+.sve{
+    display: flex;
+}
+  
